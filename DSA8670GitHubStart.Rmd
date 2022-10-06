@@ -1,0 +1,12 @@
+---
+title: "DSA8670GitHubStart"
+author: "Sherri Goodwin"
+date: "`r Sys.Date()`"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+This is the first time I've ever used GitHub except to extract files, and I must say I am a definite newbie.  I am learning as I go....
